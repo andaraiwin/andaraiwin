@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raiwin Inthasit</h1>
-<h3 align="center">I am a 4th-year student at Chiang Mai University, specializing in data, machine learning, deep learning, and program verification.</h3>
+<h3 align="center">Software Engineer | Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andaraiwin&label=Profile%20views&color=0e75b6&style=flat" alt="andaraiwin" /> </p>
 
