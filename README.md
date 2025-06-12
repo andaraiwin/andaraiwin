@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andaraiwin&label=Profile%20views&color=0e75b6&style=flat" alt="andaraiwin" /> </p>
 
-- 🔭 I’m currently working on **Talent Atmos**
+- 🔭 I’m currently learning on **MLOps & ETL**
 
 - 🤝 I’m looking for help with **Data Engineer Career**
 
-- 📫 How to reach me **raiwin_inthasit@cmu.ac.th**
+- 📫 How to reach me **andaraiwin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
