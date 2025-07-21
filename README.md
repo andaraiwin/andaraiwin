@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raiwin (Anda) Inthasit</h1>
-<h3 align="center">Software Engineer | Entry-level Data Engineer | Entry-level Neuroscience Enjoyer </h3>
+<h3 align="center">Software Engineer | Entry-level Data Engineer | Machine Learning & Neuroscience Enjoyer </h3>
 
 - 🔭 I’m currently learning on **Cloudflare & Machine Learning**
 
