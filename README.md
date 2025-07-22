@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raiwin (Anda) Inthasit</h1>
 <h3 align="center">Software Engineer | Entry-level Data Engineer | Machine Learning & Neuroscience Enjoyer </h3>
 
-- 🔭 I’m currently learning on **Cloudflare & Machine Learning**
+- 🔭 I’m currently learning on **Serverless & Machine Learning**
 
 - 🤝 I’m looking for help with **Data Engineer Career**
 
