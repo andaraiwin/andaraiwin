@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning on **Serverless & Machine Learning**
 
-- 🤝 I’m looking for help with **Data Engineer Career**
+- 🤝 I’m looking for help with **Software/Data/Machine Learning Engineer Career**
 
 - 📫 How to reach me **raiwininthasit.work@gmail.com**
 
